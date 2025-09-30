@@ -2,7 +2,7 @@
 ## Duración del Sprint: 1 semana (5 días hábiles).
 
 ## Planificación (Día 1 - Responsable: JTR):
-  * Refinamiento del Backlog: Revisar y detallar las historias de usuario del sprint.
+  * Definición del Backlog Inicial: Definir y detallar las historias de usuario del sprint.
   * Estimación de Historias de Usuario: El equipo estimará el esfuerzo de cada historia de usuario.
   * Asignación de Tareas: Distribuir las tareas entre los miembros del equipo, considerando los roles definidos.
 ## Codificación (Día 1-3 - Responsable: CHB, JRCS, CMA, VMR):
