@@ -35,3 +35,6 @@
 ## Monitoreo y Retroalimentación (Día 5 - Responsable: JTR):
   * Monitoreo: JTR: Utilizar las herramientas de monitoreo de Firebase (Performance Monitoring, Crashlytics) para observar el rendimiento y detectar problemas post-despliegue en producción.
 * Retroalimentación: Recopilar retroalimentación para el próximo Sprint.
+
+##
+### Aplicación de comunicación a Utilizar: Discord.
